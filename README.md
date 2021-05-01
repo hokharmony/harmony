@@ -4,7 +4,6 @@
 [<img align="left" alt="hokharmony | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="hokharmony | YouTube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
 [<img align="left" alt="hokharmony | Twitter" width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838091455062868018/4662875160dc4c56954003ebda995414.png" />][twitter]
-[<img align="left" alt="hokharmony | Reddit width="44px" src="https://cdn.discordapp.com/attachments/744842644798046211/838091303769210930/3abe9ce5a00cc24bd8aae04bf5968f4c.png" />][reddit]
 
 <br />
 
@@ -12,4 +11,5 @@
 [twitch]: https://www.twitch.tv/hokharmony
 [youtube]: https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ
 [twitter]: https://twitter.com/hokharmony
-[reddit]: https://www.reddit.com/u/hokharmony
+
+### Daha fazlası aağda bulunan listede;
