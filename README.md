@@ -11,5 +11,3 @@
 [twitch]: https://www.twitch.tv/hokharmony
 [youtube]: https://www.youtube.com/channel/UC5XBrb0wb4lnpfG0cSTaguQ
 [twitter]: https://twitter.com/hokharmony
-
-### Daha fazlası aağda bulunan listede;
